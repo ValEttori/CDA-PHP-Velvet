@@ -1,0 +1,9 @@
+- Option d'origine du select associée à l'ID de la page
+- Upload de la jaquette dans l'update et le addDisc
+- Regex
+- Messages d'erreurs
+- Alert de confirmation
+
+- Sessions
+- Mail de confirmation
+- MdP oublié
